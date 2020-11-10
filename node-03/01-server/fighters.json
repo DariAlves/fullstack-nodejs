@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Iori Yagami",
+        "birthplace": "Japan",
+        "email": "yagami@snk.com"
+    },
+    {
+        "id": 2,
+        "name": "Kyo Kusanagi",
+        "birthplace": "Japan",
+        "email": "kusanagi@snk.com"
+    },
+    {
+        "id": 3,
+        "name": "Terry Bogard",
+        "birthplace": "USA",
+        "email": "bogard@snk.com"
+    },
+    {
+        "id": 4,
+        "name": "Joe Higashi",
+        "birthplace": "Japan",
+        "email": "higashi@snk.com"
+    }
+]
